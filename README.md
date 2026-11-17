@@ -31,6 +31,5 @@ markets, and business segments.
 ## Files
 
 - Power BI Dashboard
-- PDF Report
-- DAX Measures
-- Data Dictionary
+- Screenshots Report
+- Data Source
