@@ -5,7 +5,7 @@ Repository about analysis financial performance by dataset from Microsoft Power 
 
 ## Dashboard Preview
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](/screenshots/executive-summary.png)
 
 ## Business Objective
 
